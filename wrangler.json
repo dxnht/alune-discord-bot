@@ -1,0 +1,19 @@
+{
+	"name": "alune-bot",
+	"main": "src/index.js",
+	"compatibility_date": "2024-03-14",
+	"kv_namespaces": [
+		{
+			"binding": "ALUNE_BOT_KV",
+			"id": ""
+		}
+	],
+	"vars": {
+		"DISCORD_PUBLIC_KEY": "",
+		"DISCORD_CLIENT_ID": "",
+		"DISCORD_TOKEN": ""
+	},
+	"observability": {
+		"enabled": true
+	}
+}
